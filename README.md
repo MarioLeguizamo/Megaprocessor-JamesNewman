@@ -12,6 +12,5 @@ El Megaprocesador ahora vive en el Centro de Historia de la Computación.
 
 www.computinghistory.org.uk
 
-![](http://web.archive.org/web/20191120231119im_/http://www.megaprocessor.com/Images/megaprocessor-panorama.jpg)
-
+![](https://raw.githubusercontent.com/MarioLeguizamo/Megaprocessor-JamesNewman/master/Images/megaprocessor-panorama.jpg)
 (C) 2014-2016 James Newman.
